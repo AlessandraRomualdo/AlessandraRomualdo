@@ -20,5 +20,3 @@
   
   ##
   
-  ![Snake animation](https://github.com/AlessandraRomualdo/AlessandraRomualdo/blob/ooutput/github-contribution-grid-snake.svg)
-        
