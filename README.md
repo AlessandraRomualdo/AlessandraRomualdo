@@ -27,8 +27,11 @@
   
 <div align="center">
   <br><p align="center"><br>Visitantes</b></p>
-  <p align="center"><img align="center" src"https://profile-counter.glitch.me/{AlessandraRomualdo}/count.svg" /></p>
+  
+  ![](https://komarev.com/ghpvc/?username=AlessandraRomualdo&label=●)
   <br>
   </div>
+  
+  [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=AlessandraRomualdo&theme=rogue&custom_title=Minhas%20contribuições&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
   
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=53A687&height=120&section=footer"/>
