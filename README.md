@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=53A687&height=120&section=heacer"/>
 
 
-### 👋 Oii, Eu sou a Alessandra!
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Olá,+Eu+sou+a+Alessandra...;Seja+bem+vindo(a)!&color=53A687)](https://git.io/typing-svg)
 
 
 <div>
