@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=heacer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=53A687&height=120&section=heacer"/>
 
 
 ### 👋 Oii, Eu sou a Alessandra!
@@ -23,16 +23,12 @@
  </div>
 </div>  
 
-  <div>
-   <div style="display:inline-block" align="center"> 
-    [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=AlessandraRomualdo&bg_color=333462&color=9e4c98&line=9e4c98&point=000000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-   </div>  
-  </div>
+  
   
 <div align="center">
-  <br><p align="center"><br>Visitors Count</b></p>
+  <br><p align="center"><br>Visitantes</b></p>
   <p align="center"><img align="center" src"https://profile-counter.glitch.me/{AlessandraRomualdo}/count.svg" /></p>
   <br>
   </div>
   
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=footer"/>
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=53A687&height=120&section=footer"/>
