@@ -4,8 +4,8 @@
 
 <div>
   <a href="https://github.com/alessandraromualdo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alessandraromualdo&show_icons=true&theme=synthwave&include_allcomnits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alessandraromualdo&layout=compact&langs_count=16&theme=synthwave"/> 
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=alessandraromualdo&show_icons=true&theme=synthwave&include_allcomnits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alessandraromualdo&layout=compact&langs_count=16&theme=synthwave"/> 
 </div>
   
   ##
