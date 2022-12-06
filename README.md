@@ -28,7 +28,7 @@
 <div align="center">
   <br><p align="center"><br>Visitantes</b></p>
   
-  ![](https://komarev.com/ghpvc/?username=AlessandraRomualdo&label=●)
+  ![](https://komarev.com/ghpvc/?username=AlessandraRomualdo&label=☺)
   <br>
   </div>
   
