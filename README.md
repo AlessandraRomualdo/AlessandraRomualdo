@@ -4,11 +4,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Olá,+Eu+sou+a+Alessandra...;Seja+bem+vindo(a)!&color=53A687)](https://git.io/typing-svg)
 
 
-<div>
-  <a href="https://github.com/alessandraromualdo">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=alessandraromualdo&show_icons=true&theme=cobalt&include_allcomnits=true&count_private=true"/>
-  <img  align="right" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alessandraromualdo&layout=compact&langs_count=16&theme=cobalt"/> 
-</div>
+
   
   ##
   
