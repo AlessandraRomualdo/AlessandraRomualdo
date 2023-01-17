@@ -23,7 +23,7 @@
 </div>  
 
 
- 
+ [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=AlessandraRomualdo&&theme=vue&custom_title=Commits%20❤&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
   
   
 <div align="center">
