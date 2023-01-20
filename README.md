@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=53A687&height=120&section=heacer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffc8dd&height=120&section=heacer"/>
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Olá,+Eu+sou+a+Alessandra...;Seja+bem+vindo(a)!&color=53A687)](https://git.io/typing-svg)
@@ -23,7 +23,7 @@
 </div>  
 
 
- [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=AlessandraRomualdo&&theme=vue&custom_title=Commits%20❤&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+ [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=AlessandraRomualdo&custom_title=Commits%20❤&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
   
   
 <div align="center">
@@ -34,4 +34,4 @@
   </div>
   
   
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=53A687&height=120&section=footer"/>
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffc8dd&height=120&section=footer"/>
