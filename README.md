@@ -34,5 +34,6 @@
   <br>
   </div>
   
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlessandraRomualdo&show_icons=true&theme=radical)
   
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffc8dd&height=120&section=footer"/>
