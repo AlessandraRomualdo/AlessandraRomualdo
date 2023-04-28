@@ -32,7 +32,13 @@
   ![](https://komarev.com/ghpvc/?username=AlessandraRomualdo&label=☺)
   <br>
   </div>
+
+<div>
+  <div style="display: inline-block"><br>
   
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlessandraRomualdo&show_icons=true&theme=cobalt)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlessandraRomualdo&layout=compact&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
   
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlessandraRomualdo&show_icons=true&theme=cobalt)
+ </div>
+</div>  
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffc8dd&height=120&section=footer"/>
