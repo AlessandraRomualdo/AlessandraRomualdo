@@ -1,7 +1,7 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffc8dd&height=120&section=heacer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=60BF93&height=120&section=heacer"/>
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Olá,+Eu+sou+a+Alessandra...;Seja+bem+vindo(a)!&color=ffc8dd)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Olá,+Eu+sou+a+Alessandra...;Seja+bem+vindo(a)!&color=60BF93)](https://git.io/typing-svg)
 
 
 
@@ -41,4 +41,4 @@
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlessandraRomualdo&show_icons=true&theme=cobalt)
  </div>
 </div>  
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffc8dd&height=120&section=footer"/>
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=60BF93&height=120&section=footer"/>
