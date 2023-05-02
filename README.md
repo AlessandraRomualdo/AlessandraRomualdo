@@ -20,7 +20,7 @@
  </div>
 </div>  
 
-   <h1 align="center">Contato:</h1>
+   <h1 align="center">Contato</h1>
 
 <div align="center">
 
