@@ -35,7 +35,7 @@
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlessandraRomualdo&layout=compact&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats) 
  </div>
 </div> 
-   <img align="left" width=200 alt="codin-girl" src="ale-avatar2.png">
+   <img align="left" width=200 alt="hello-girl" src="ale-avatar2.png">
    <div width=200 align="center">
   <br><p align="center"><br>Visitantes</b></p>
   
