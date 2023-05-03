@@ -28,18 +28,19 @@
 <a href="https://www.linkedin.com/in/alessandra-romualdo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
    
-<div align="center">
-  <br><p align="center"><br>Visitantes</b></p>
-  
-  ![](https://komarev.com/ghpvc/?username=AlessandraRomualdo&label=☺)
-  <br>
-  </div>
-
 <div>
   <div style="display: inline-block"><br>
   
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlessandraRomualdo&show_icons=true&theme=cobalt)
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlessandraRomualdo&layout=compact&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats) 
  </div>
-</div>  
+</div> 
+   <img align="left" width=200 alt="codin-girl" src="ale-avatar2.png">
+   <div width=200 align="center">
+  <br><p align="center"><br>Visitantes</b></p>
+  
+  ![](https://komarev.com/ghpvc/?username=AlessandraRomualdo&label=☺)
+  <br>
+  </div>
+  
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=60BF93&height=120&section=footer"/>
