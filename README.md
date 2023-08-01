@@ -2,7 +2,7 @@
 
 <div style="display: flex">
 
-<img align="right" height="280" alt="codin-girl" src="code.png" />
+<img align="right" height="300" alt="codin-girl" src="code.png" />
 <div>
    <h4>Fullstack Developer from Sete Lagoas-MG, Brazil. My first "Hello World" was with HTML, CSS and JavaScript languages.
    </h4>
