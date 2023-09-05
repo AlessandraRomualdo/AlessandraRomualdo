@@ -2,7 +2,8 @@
 
 <div style="display: flex">
 
-<img align="right" height="300" alt="codin-girl" src="code.png" />
+<!-- <img align="right" height="300" alt="codin-girl" src="code.png" /> -->
+<img align="left" width=200 alt="hello-girl" src="ale-avatar2.png">
 <div>
    <h4>Fullstack Developer from Sete Lagoas-MG, Brazil. My first "Hello World" was with HTML, CSS and JavaScript languages.
    </h4>
@@ -68,7 +69,7 @@
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlessandraRomualdo&show_icons=true&theme=cobalt)
 
 </div> 
-   <img align="left" width=200 alt="hello-girl" src="ale-avatar2.png">
+
    <div width=200 align="center">
   <br><p align="center"><br>Visitantes</b></p>
   
