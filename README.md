@@ -3,7 +3,7 @@
 <div style="display: flex">
 
 <!-- <img align="right" height="300" alt="codin-girl" src="code.png" /> -->
-<img align="left"  width="300" alt="hello-girl" src="ale-avatar2.png">
+<img align="left"  width="250" alt="hello-girl" src="ale-avatar2.png">
 <div>
    <h4>Fullstack Developer from Sete Lagoas-MG, Brazil. My first "Hello World" was with HTML, CSS and JavaScript languages.
    </h4>
