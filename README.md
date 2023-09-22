@@ -64,9 +64,11 @@
 </div>
    
 <div>
-  <div style="display: inline-block"><br>
+  <div style="display: inline-block">
   
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlessandraRomualdo&show_icons=true&theme=cobalt)
+
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlessandraRomualdo&layout=compact&theme=cobalt)
 
 </div> 
 
