@@ -16,7 +16,6 @@
 </div>
 
 
-##
 ## Languages and tools
    
    <div>
@@ -42,15 +41,15 @@
    </div>
 
 
-## Tools
+<!-- ## Tools
 
 
-<div>
+ <div>
    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
    <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
    <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"/>
    <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
-</div>
+</div> -->
 
 
 ## Contato
@@ -61,14 +60,14 @@
 <a href="https://www.linkedin.com/in/alessandra-romualdo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
    
-<!--<div>
+<div>
   <div style="display: inline-block">
   
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlessandraRomualdo&show_icons=true&theme=cobalt)
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlessandraRomualdo&show_icons=true&theme=cobalt) -->
 
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlessandraRomualdo&layout=compact&theme=cobalt&hide_progress=true)
 
-</div> -->
+</div>
 
    <div width=200 align="center">
   <br><p align="center"><br>Visitantes</b></p>
