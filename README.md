@@ -18,6 +18,10 @@
 
 ## Languages and tools
 [![My Skills](https://skillicons.dev/icons?i=angular,ts,js,reactivex,tailwind,sass,nestjs,postgres,postman,py,ubuntu,linux)](https://skillicons.dev)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlessandraRomualdo&theme=date_night)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AlessandraRomualdo&theme=date_night)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AlessandraRomualdo&theme=date_night)
    
   <!-- <div>
       <img align="center" width="65" alt="JS" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
@@ -55,8 +59,6 @@
   <div style="display: inline-block">
   
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlessandraRomualdo&show_icons=true&theme=cobalt) -->
-
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlessandraRomualdo&layout=compact&theme=cobalt&hide_progress=true)
 
 </div>
 
