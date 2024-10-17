@@ -17,8 +17,9 @@
 
 
 ## Languages and tools
+[![My Skills](https://skillicons.dev/icons?i=angular,ts,js,reactivex,tailwind,sass,nestjs,postgres,postman,py,ubuntu,linux)](https://skillicons.dev)
    
-   <div>
+  <!-- <div>
       <img align="center" width="65" alt="JS" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
       <img align="center" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
       <img align="center" width="65" alt="Angular" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" />
@@ -28,7 +29,7 @@
       <img align="center" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original-wordmark.svg" />
       <img align="center" width="65" alt="mysql" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"/>
           
-   </div>
+   </div>-->
 
 
 <!-- ## Tools
