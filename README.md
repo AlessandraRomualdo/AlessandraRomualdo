@@ -3,8 +3,8 @@
 <div style="display: flex">
 
 <!-- <img align="right" height="300" alt="codin-girl" src="code.png" /> -->
-<img align="left"  width="200" alt="hello-girl" src="ale-avatar2.png">
-<div>
+<img align="left"  width="500" alt="hello-girl" src="cocky_ tommyinnit x reader.gif">
+<div margin-left="20">
    <h4>Currently pursuing a degree in Analysis and Systems Development, I am expanding my skills to become a Full Stack Developer </h4>
    <h4>Fullstack Developer from Sete Lagoas-MG, Brazil. My first "Hello World" was with HTML, CSS and JavaScript languages.
    </h4>
