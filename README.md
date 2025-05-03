@@ -17,7 +17,7 @@
 
 
 ## Languages and tools
-[![My Skills](https://skillicons.dev/icons?i=angular,ts,js,reactivex,tailwind,sass,nestjs,postgres,postman,py,ubuntu,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=angular,reactivex,tailwind,bootstrap,sass,ts,js,py,nodejs,nestjs,postgres,mysql,mongodb,postman,ubuntu,linux)](https://skillicons.dev)
 
 
 
