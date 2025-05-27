@@ -16,6 +16,8 @@
 </div>
 
 
+
+
 ## Languages and tools
 [![My Skills](https://skillicons.dev/icons?i=angular,reactivex,tailwind,bootstrap,sass,ts,js,py,nodejs,nestjs,postgres,mongodb,postman,ubuntu,linux)](https://skillicons.dev)
 
@@ -69,5 +71,8 @@
   ![](https://komarev.com/ghpvc/?username=AlessandraRomualdo&label=☺)
   <br>
   </div>
+  
+  ![Status](./profile-3d-contrib/profile-night-rainbow.svg)
+
   
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=710d71&height=120&section=footer"/>
